@@ -1,0 +1,41 @@
+{
+    "weapons": {
+        "bow": [
+            {"id":"bltzl", "name":"Blitzel", "slot":"primary", "attunment":"courage", "attunement_rating":"2", "rarity":"uncommon"},
+            {"id":"jnpr", "name":"Juniper", "slot":"primary", "attunment":"grace", "attunement_rating":"2", "rarity":"uncommon"},
+            {"id":"thstl", "name":"Thistle", "slot":"primary", "attunment":"grace", "attunement_rating":"1", "rarity":"common"}
+            ],
+        "flyblade":[
+            {"id":"prckls", "name":"Precklies", "slot":"secondary", "attunment":"courage", "attunement_rating":"1", "rarity":"common"},
+            {"id":"skltr", "name":"Skílter", "slot":"secondary", "attunment":"grace", "attunement_rating":"2", "rarity":"uncommon"}
+        ],
+        "long_blade": [
+            {"id":"gn_mr", "name":"Igne Mora", "slot":"primary", "attunement":"courage", "attunement_rating":"2", "rarity":"rare"},
+            {"id":"slls_1", "name":"Sollos-I", "slot":"primary", "attunment":"spirit", "attunement_rating":"2", "rarity":"uncommon"},
+            {"id":"vtch", "name":"Vetch", "slot":"primary", "attunment":"courage", "attunement_rating":"2", "rarity":"uncommon"},
+            {"id":"wldr", "name":"Wulder", "slot":"primary", "attunment":"courage", "attunement_rating":"1", "rarity":"common"}
+        ],
+        "magick": [
+            {"id":"gwln", "name":"Gwylen", "slot":"primary", "attunment":"spirit", "attunement_rating":"1", "rarity":"common"},
+            {"id":"dc", "name":"Odiac", "slot":"primary", "attunment":"spirit", "attunement_rating":"2", "rarity":"uncommon"}
+        ],
+        "polearm": [
+            {"id":"dhk_hlc", "name":"Duhk Halic", "slot":"primary", "attunment":"courage", "attunement_rating":"2", "rarity":"uncommon"},
+            {"id":"gthnnn", "name":"Gathannan", "slot":"primary", "attunment":"spirit", "attunement_rating":"3", "rarity":"rare"},
+            {"id":"rk", "name":"Rook", "slot":"primary", "attunment":"spirit", "attunement_rating":"2", "rarity":"uncommon"},
+            {"id":"vsp_4", "name":"Vasp IV", "slot":"primary", "attunment":"courage", "attunement_rating":"1", "rarity":"common"}
+        ],
+        "shield": [
+            {"id":"bg_n_mrtl", "name":"Bog & Myrtle", "slot":"primary", "attunment":"grace", "attunement_rating":"2", "rarity":"uncommon"},
+            {"id":"rn_mbr", "name":"Oryn Umbr", "slot":"primary", "attunment":"courage", "attunement_rating":"2", "rarity":"uncommon"}
+        ],
+        "short_blade": [
+            {"id":"rvt_2", "name":"Rivt II", "slot":"primary", "attunment":"grace", "attunement_rating":"1", "rarity":"common"},
+            {"id":"th_ryl_tns", "name":"The Royal Tines", "slot":"primary", "attunment":"spirit", "attunement_rating":"3", "rarity":"rare"},
+            {"id":"nsl", "name":"Unsula", "slot":"primary", "attunment":"spirit", "attunement_rating":"2", "rarity":"uncommon"},
+            {"id":"grnn", "name":"Grinn", "slot":"secondary", "attunment":"courage", "attunement_rating":"2", "rarity":"uncommon"},
+            {"id":"nttl", "name":"Nettle", "slot":"secondary", "attunment":"grace", "attunement_rating":"1", "rarity":"common"},
+            {"id":"vrdgrs", "name":"Virdigris", "slot":"secondary", "attunment":"spirit", "attunement_rating":"2", "rarity":"uncommon"}
+        ]
+    }
+}
